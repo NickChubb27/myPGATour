@@ -1,0 +1,91 @@
+i {
+    border: solid black;
+    border-width: 0 6px 6px 0;
+    display: inline-block;
+    padding: 3px;
+    cursor: pointer;
+}
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+
+.button {
+	background-color: #80b3ff;
+	padding: 3px;
+	border-radius: 8px;
+	color: white;
+	margin-bottom: 5px;
+}
+
+#currentHole {
+    border-radius: 50%;
+    border: 1px solid black;
+    padding: 5px;
+    margin-left: 25px;
+}
+
+#leaderboard td {
+    text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+table {
+  border-spacing: 0;
+}
+table td {
+  border-collapse: collapse;
+}
+.ExternalClass {
+  width: 100%;
+}
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%;
+}
+.ReadMsgBody {
+  width: 100%;
+  background-color: #ebebeb;
+}
+table {
+  mso-table-lspace: 0pt;
+  mso-table-rspace: 0pt;
+}
+img {
+  -ms-interpolation-mode: bicubic;
+}
+.yshortcuts a {
+  border-bottom: none !important;
+}
+@media screen and (max-width: 599px) {
+  .force-row,
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+@media screen and (max-width: 400px) {
+  .container-padding {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+}
+.ios-footer a {
+  color: #aaaaaa !important;
+  text-decoration: underline;
+}
