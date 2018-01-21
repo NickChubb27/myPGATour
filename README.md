@@ -8,7 +8,7 @@ The app learns how good you are based on how you are playing that day. It keeps 
 
 * **Joe Burnett** - *Initial work* - [NickChubb27](https://github.com/NickChubb27)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/NickChubb27/myPGATour/graphs/contributors) who participated in this project.
 
 ## License
 
